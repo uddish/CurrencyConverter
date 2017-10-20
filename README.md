@@ -2,7 +2,7 @@
 
  [Link to Google Play Store!](https://play.google.com/store/apps/details?id=com.mayank.uddishverma.currencyconverter)
 
-# Features: 
+## Features: 
 * 🔵 Instant currency conversion just by typing
 * 🔵 Theme Colors - Just Swipe!
 * 🔵 Live exchange rates
